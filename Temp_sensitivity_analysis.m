@@ -1,6 +1,7 @@
 %
-clear
-clc
+close all;
+clear;
+clc;
 
 
 %
